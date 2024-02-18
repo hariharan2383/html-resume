@@ -19,8 +19,11 @@ body{
 #primary-heading
 {
     font-family:  "Kaushan Script", cursive;
-    font-size: 35px;
+    font-size: 40px;
     text-align: center;
+    padding-top: 20px;
+    padding-bottom: 0%;
+    line-height: 0%;
 }
 #primary-tag
 {
@@ -29,4 +32,50 @@ body{
     font-size: medium;
     text-align: center;
     line-height: 0%;
+}
+.subhead
+{
+    font-family:  "Kaushan Script", cursive;
+    font-size: 23px;
+    text-align: left;
+    line-height: 0%;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+.subhead-con
+{
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: left;
+    line-height: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    letter-spacing: 0.4px;
+}
+.position
+{
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+    padding-left: 12px;
+}
+.year
+{
+    font-family: "Poppins", sans-serif;
+    font-weight:bold ;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 12px;
+    line-height:0cap;
+    padding-bottom: 5px;
+}
+#skills
+{
+    font-family: "Raleway", sans-serif;
+    font-weight:bold ;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 30px;
+    line-height: 20px;
+    
 }
